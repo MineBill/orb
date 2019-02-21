@@ -8,5 +8,8 @@
         "repository": null,
         "license": null,
         "language": "cpp"
+    },
+    "lang.cpp":{
+        "lib":["fmt"]
     }
 }
