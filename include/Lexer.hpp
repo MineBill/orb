@@ -55,6 +55,8 @@ class Lexer {
      */
     std::string scan_alnum();
 
+    void skip_comment();
+
    private:
     /**
      * @brief Points to current character in the input string.
